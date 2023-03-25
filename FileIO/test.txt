@@ -1,0 +1,11 @@
+This is a tutorial project of the Django and this is the understanding and notes of that same thing
+
+Manage.py:
+Manage.py is the main file which will runs your server and in my understanding this is the file that defines host.
+Url.py
+Url.py is the file that stores your Urls or addresses that need to be stored . In other words it defines your structure of your web site 
+
+let say your home page is 182.0.9.0 so your about page can be  182.0.9.0/about.
+
+Views.py:
+views is the file created by me and will be using it to display it thorough the url.py file as is will stores the address of that file.
